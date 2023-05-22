@@ -67,7 +67,7 @@
                 <div class="row mb-3">
                     <div class="col">
                         <label for="insumos_cantidad_existencia">Cantidad En Existencia:</label>
-                        <input type="number" name="insumos_cantidad_existencia" id="insumos_cantidad_existencia">
+                        <input type="text" name="insumos_cantidad_existencia" id="insumos_cantidad_existencia">
                     </div>
                 </div>
 
