@@ -42,7 +42,7 @@
 
         .container {
             
-            margin-top: 30px;
+            margin-top: 100px;
             background-color: #D6DBDF;
         }
 
@@ -54,7 +54,7 @@
 
 <body>
 
-    <div class="container" style="position: absolute; right: 0; margin: 20px;">
+    <div class="container" style="position: center;">
         <h1 class="text-center">Ingreso de Informacion de Insumos</h1>
         <div class="row justify-content-center">
           <form action="/Parcial_Alvarado/controladores/productos/guardar.php" method="POST" class="col-lg-8 border p-3">
