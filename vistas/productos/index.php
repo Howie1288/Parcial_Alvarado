@@ -88,7 +88,7 @@
                 <div class="row mb-3">
                     <div class="col">
                         <label for="insumos_precio">Precio del Insumo:</label>
-                        <input type="number" name="insumos_precio" id="insumos_precio">
+                        <input type="number" step="0.01" name="insumos_precio" id="insumos_precio">
                     </div>
                 </div>
 
